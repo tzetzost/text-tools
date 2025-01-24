@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Unescape Selected Text",
+        "command": "unescape_selected_text"
+    }
+]
